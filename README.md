@@ -48,6 +48,8 @@ Preparando Ambiente do Airflow
 
 ![image](https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/assets/66569714/41304b15-b699-4507-81b0-02fd73ff806f)
 
+Informar para ambos: Usuário e Senha: airflow
+
 
 
    
