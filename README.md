@@ -44,7 +44,11 @@ Preparando Ambiente do Airflow
 
    <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/Verificando_Se_AmbientePronto.png">   
 
-   ### Após a preparação do ambiente, abrir o navegador e digitar: localhost:8080
+   #### Após a preparação do ambiente, abrir o navegador e digitar: localhost:8080
+
+![image](https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/assets/66569714/41304b15-b699-4507-81b0-02fd73ff806f)
+
+
 
    
      
