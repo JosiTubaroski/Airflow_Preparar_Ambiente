@@ -50,6 +50,10 @@ Preparando Ambiente do Airflow
 
 Informar para ambos: Usuário e Senha: airflow
 
+# Apresentação Inicial do Airflow
+
+ <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/Tela_Airflow.png">   
+
 
 
    
