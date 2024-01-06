@@ -43,4 +43,8 @@ Preparando Ambiente do Airflow
      Comando verificar se o ambiente está pronto: docker-compose ps
 
    <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/Verificando_Se_AmbientePronto.png">   
+
+   ### Após a preparação do ambiente, abrir o navegador e digitar: localhost:8080
+
+   
      
