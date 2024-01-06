@@ -54,6 +54,9 @@ Informar para ambos: Usuário e Senha: airflow
 
  <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/Tela_Airflow.png">   
 
+Essa apresentação contem as dags de demonstração.
+
+
 
 
    
