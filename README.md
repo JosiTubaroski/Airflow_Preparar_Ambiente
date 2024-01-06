@@ -17,6 +17,11 @@ Preparando Ambiente do Airflow
 
   1. Crie uma pasta "airflow"
   2. Salve os seguintes arquivos na pasta:
-     - docker-compose.yaml
-     - .env
+      - docker-compose.yaml
+      - .env
+
+ ### Instalando o Docker
+
+ Instalando_Docker
+ 
        
