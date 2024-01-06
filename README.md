@@ -22,6 +22,7 @@ Preparando Ambiente do Airflow
 
  ### Instalando o Docker
 
- Instalando_Docker
+  <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/Instalando_Docker.png">
+ 
  
        
