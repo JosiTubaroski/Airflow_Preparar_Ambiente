@@ -34,6 +34,8 @@ Preparando Ambiente do Airflow
 
   <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/CMD_DIR.png">
     
-   
+   - Agora vamos digitar os comandos para realizar a instalação.
+
+     docker-compose up -d
  
        
