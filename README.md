@@ -10,3 +10,5 @@ Preparando Ambiente do Airflow
 - Instalar Airflow com Docker
 
   ### Download docker para Windows
+
+  <img src="https://github.com/JosiTubaroski/Data_Enginer/blob/main/imgs/Apache_Airflow.png">
