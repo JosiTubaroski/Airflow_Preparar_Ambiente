@@ -32,6 +32,7 @@ Preparando Ambiente do Airflow
 
   - Apos localizar o caminho da pasta, digitar dir e verificar se o resultado será corretamente apresentado.
 
+  <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/CMD_DIR.png">
     
    
  
