@@ -8,3 +8,5 @@ Preparando Ambiente do Airflow
    - Anaconda/VSCode
 
 - Instalar Airflow com Docker
+
+  ### Download docker para Windows
