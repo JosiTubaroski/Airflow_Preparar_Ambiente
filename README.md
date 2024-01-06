@@ -11,4 +11,4 @@ Preparando Ambiente do Airflow
 
   ### Download docker para Windows
 
-  <img src="https://github.com/JosiTubaroski/Data_Enginer/blob/main/imgs/Apache_Airflow.png">
+  <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/Docker_Windows.png">
