@@ -38,4 +38,4 @@ Preparando Ambiente do Airflow
 
      docker-compose up -d
  
-     <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/CMD_DIR.png">    
+     <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/Termino_Execucao.png">    
