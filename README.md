@@ -39,3 +39,8 @@ Preparando Ambiente do Airflow
      docker-compose up -d
  
      <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/Termino_Execucao.png">    
+
+     Comando verificar se o ambiente está pronto: docker-compose ps
+
+   <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/Termino_Execucao.png">   
+     
