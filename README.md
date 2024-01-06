@@ -29,6 +29,10 @@ Preparando Ambiente do Airflow
  - Após a instalaçao do docker, abrir o prompt de comando e posicionar na pasta airflow.
 
   <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/CMD_Airflow.png">
+
+  - Apos localizar o caminho da pasta, digitar dir e verificar se o resultado será corretamente apresentado.
+
+    
    
  
        
