@@ -13,7 +13,7 @@ Preparando Ambiente do Airflow
 
   <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/Docker_Windows.png">
 
-  https://github.com/JosiTubaroski/Docker
+  
 
   Instalar Airflow com Docker
 
@@ -27,6 +27,10 @@ Preparando Ambiente do Airflow
   <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/Instalando_Docker.png">
 
   Aguardar o termino da instalação
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Docker">Para Saber mais sobre Docker</a></p>
+</div> 
 
  - Após a instalaçao do docker, abrir o prompt de comando e posicionar na pasta airflow.
 
